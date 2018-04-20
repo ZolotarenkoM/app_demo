@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Persons-jen-works</h1>
+<h1>Persons</h1>
 
 <c:url var="addUrl" value="/demo/main/persons/add" />
 <table style="border: 1px solid; width: 500px; text-align:center">
